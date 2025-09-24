@@ -1,4 +1,4 @@
-# Global-YouTube-Stats-2023
+# Global-YouTube-Stats-2023-Shiny-App
 
 INFO 250 Information Visualization | Summer 2023 | Final Project
 
