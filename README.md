@@ -14,4 +14,4 @@ Please see `INFO_250_Final_Project.pdf` for the final report that summarizes thi
 Please see `app.R` for the R code.
 
 ## Dataset
-Kaggle link: https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023
+Dataset link: https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023
