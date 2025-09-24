@@ -7,6 +7,7 @@ The goal of this project is to visualize, analyze, and discover key findings and
 
 ## Project Details
 Check out the Shiny App for this project: https://kevinshi4.shinyapps.io/info250_project2B/
+
 Please see `INFO_250_Final_Project.pdf` for the final report that summarizes this project.
 
 ## Project Code
